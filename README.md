@@ -2,5 +2,5 @@
 Конспекты в Obsidian по экзаменационным экспертизам
 
 Модули для нормального просмотра:
-Excalidraw
+Excalidraw,
 Excalidraw Extras
